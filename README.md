@@ -10,6 +10,5 @@ puedes ver en windows: CPU-Z
 
 linux:ls hardware
 
-
 y la otra una CPU de 64
-entonces por ejemplo el fedora 24 tiene para las 2  sistemas para la 32 y la otra para la del 64 porque la CPU de 32 b no puede soportar la de 64 y en cambio la CPU de 64 b disminuiría mucho el rendimiento si tiene el de 32 
+entonces por ejemplo el fedora 24 tiene para las 2  sistemas para la 32 y la otra para la del 64 porque la CPU de 32 b no puede soportar la de 64 y en cambio la CPU de 64 b disminuiría mucho el rendimiento si tiene el de 32 quando el pc te podria ir muchisimo mejor
